@@ -1,1 +1,1 @@
-# P1-Image-Classification-by-Learning-AICTE-Internship
+# P1-Image-Classification-by-Machine-Learning-AICTE-Internship
