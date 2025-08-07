@@ -1,4 +1,4 @@
-# P1-Image-Classification-by-Machine-Learning-AICTE-Internship
+# Image-Classification-by-Machine-Learning-AICTE-Internship
 
 I have done this project to classify images by using CNN model and pre traned mobile Net model . I create the streamlit model app for the same .
 
@@ -8,11 +8,11 @@ I used the anaconda promt to create the project environment and install required
 
 ##Feature
 
-Data collection
+Data collection  
 Data preprocessing
+Data filtration
 Model implementation
 Model evaluation
-
 
 ## Acknoledgement 
 
@@ -24,7 +24,7 @@ Tensorflow
 Prerequisites
 
 -Python 3-7
--Web browser
+-Any web browser
 
 Software Requirements:
 
@@ -42,7 +42,7 @@ A Python library for numerical computations, essential for handling data arrays 
 2. Matplotlib/Seaborn:
 These libraries are used for plotting and visualizing the results of model performance, including accuracy curves, loss curves, and confusion matrices.
 
-·  Integrated Development Environment (IDE):
+·  Integrated Dvelopment Environment (IDE):
 
 ·  Jupyter Notebook: An interactive development environment ideal for prototyping, experimenting, and visualizing results during the development of machine learning models.
 PyCharm/VSCode: Full-featured IDEs for Python development, providing a more robust environment for coding, debugging, and project management.
